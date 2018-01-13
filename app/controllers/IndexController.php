@@ -10,7 +10,7 @@ class IndexController extends ControllerBase
 	
 	public function showAction()
 	{
-		return "a to jakis tekst, ktory powinien sie gdzies pokazac...";
+		return "to poprawka wprowadzona w nowej galezi...";
 	}
 
 }
